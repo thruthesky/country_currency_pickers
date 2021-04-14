@@ -1,3 +1,5 @@
+## [2.0.0] - 04/14/2021
+* Migrated to null safety
 ## [1.1.0] - 04/26/2019
 * Fix issue
 [#12](https://github.com/figengungor/country_pickers/issues/12) - Fix background color setting for CountryPickerCupertino. Thanks @rhmoeller
