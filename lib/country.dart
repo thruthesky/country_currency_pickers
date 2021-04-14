@@ -1,10 +1,10 @@
 class Country {
-  final String name;
-  final String isoCode;
-  final String iso3Code;
-  final String phoneCode;
-  final String currencyCode;
-  final String currencyName;
+  final String? name;
+  final String? isoCode;
+  final String? iso3Code;
+  final String? phoneCode;
+  final String? currencyCode;
+  final String? currencyName;
 
   Country({
     this.isoCode,
